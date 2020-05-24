@@ -1,0 +1,68 @@
+Loading dataset...
+done in 0.000s.
+Extracting tf-idf features for NMF...
+done in 0.428s.
+Extracting tf features for LDA...
+done in 0.424s.
+
+Fitting the NMF model (Frobenius norm) with tf-idf features, n_samples=49999 and n_features=1000...
+done in 5.626s.
+
+Topics in NMF model (Frobenius norm):
+Topic #0: nice games app graphics game gameplay really bro wow troops graphic apps time updates ok vary vry update job new verry need gem work strategy gane 12 experience children timepass
+Topic #1: good graphics app games really time game think job work pubg pass graphic strategy gameplay killer updates luck need verry apps controls control troops pretty vary thing liked ok soo
+Topic #2: game interesting fantastic favourite addictive superb loved bad wonderful played strategy favorite playing excellent supercell thanks download think life really boring mind years worst osm addicted wow beautiful better update
+Topic #3: love clash clans just app really supercell playing games clan game graphics years lot updates way new troops thanks addicting guys soo cell addicted gameplay make strategy gems thank 100
+Topic #4: best played strategy games pubg game life online forever seen app graphics mobile time supercell ve clash android strategic think worlds killer universe better clans clan far store war gameplay
+Topic #5: super cell duper games app supercell graphics sell thanks id wow update game hit account time clash addictive mass life killer gaming hall town clan entertainment updates played guys excited
+Topic #6: awesome just graphics really addictive games gameplay supercell thanks word update simply download experience say strategy loved played guys troops updates playing years new time game app totally control addicting
+Topic #7: like games really app pubg don clash supercell new make clans troops just town dont playing think graphics update clan people war lot add hall plz base gems strategy need
+Topic #8: great time killer graphics really strategy supercell games app addictive playing job way just updates think people gameplay experience pass overall recommend troops wow new friends years game work played
+Topic #9: amazing wow just really experience graphics app fantastic played loved games words playing supercell guys years troops things update strategy strategic think town work got gems new game slow waiting
+Topic #10: cool addictive really graphics bro app games just new soo update pretty people dude troops think make played thanks thank town addicting lot adictive wish star hall guys needs game
+Topic #11: world game think clash clans best bestest famous pubg worst favorite clan download bast number popular better supercell online 1st class enjoy 2nd coolest thank beat biggest games plz favourite
+Topic #12: coc pubg better games supercell playing thanks update life plz fan new id mobile favorite favourite player account make bad clan open lover hack need th come help want big
+Topic #13: fun addictive really addicting lot playing lots just challenging strategy time pretty long friends games strategic way exciting clan enjoy graphics having easy make real years consuming takes quite download
+Topic #14: play time clash clans games interesting clan killer update think supercell don friends years pass playing just easy pubg new want store enjoy loved really make long download better waste
+
+Fitting the NMF model (generalized Kullback-Leibler divergence) with tf-idf features, n_samples=49999 and n_features=1000...
+done in 8.637s.
+
+Topics in NMF model (generalized Kullback-Leibler divergence):
+Topic #0: game nice liked good intresting graphic vary graphics wow children addict attractive strategy try hard bro played entertainment verry adictive mind strategic wonderful slow online quality battle enjoyable expensive entertaining
+Topic #1: good verry luck controls application news realy sound gamers pretty ya main hero lover wizard exciting clashing stuff banned fabulous ice idea thats tooo apps lol lag increase th8 complete
+Topic #2: game played strategy wonderful favourite life osm awsome addicted mind lovely nyc beautiful perfect mast online supper mobile hai seen forever fabulous ve strategic blowing outstanding brilliant nic best gud
+Topic #3: love game asome just 100 fighting absolutely thats hooked heart fight flag soo hack playing tooo live guys came original feeling im pakistan thank thanks id yeah gamer old add
+Topic #4: best games app apps android far gam gane timepass west geme da luck online application blah love aap forever played fast favourite feature features feel feeling favorite fav faster لعبة
+Topic #5: super cell mass duper gaming hii sell lo hit se gift la excited bhi reading th9 tough geme fast ma team tnx leader response comes log uninstall write battery service
+Topic #6: awesome say word control quot entertainment man simply fully totally lv set boys loving believe th8 fact updated characters gam dude keeps girls rewards upgrades aa got daily school speechless
+Topic #7: like make troops games new war add base builder troop king gold gem need clan star gems want elixir god attack plz hero village league dark dont dragon feel donate
+Topic #8: great time graphics killer updates gameplay strategy work job gg way supercell people overall controls thats addiction oh killing games recommend bugs hope playing small stress future thinking gooooood coming
+Topic #9: amazing wow just app experience guys words improve omg enjoying semma loved mad absolutely graphics thought marvellous ive incredible improvements heart useful ausome got issues recent long things supercel adventurous
+Topic #10: cool pretty bro needs soo ice new low spell lvl osam adictive crazy features wizard acc mb sexy lit defence supersell strong khan miss funny sad added damn coins sooo
+Topic #11: world excellent think favorite worst bestest pubg nc famous bast beat epic class poor supercell clash popular hated number live 1st problems clans speechless quality luv 2nd bhai better ultimate
+Topic #12: coc update bad supercell loved pubg thanks better new hi account id thank gems plz help hate flag lost fix problem want open add old playing player need village pls
+Topic #13: fun addictive really playing time years play upgrade enjoy friends long lot addicting easy takes hard things money challenging way build bored upgrading battle attack wish troops just stop building
+Topic #14: play interesting clash superb fantastic ok clans clan download boring town hall don happy th pass waste slow level need want 12 time free dont know 13 try loading day
+
+Fitting LDA models with tf features, n_samples=49999 and n_features=1000...
+done in 22.213s.
+
+Topics in LDA model:
+Topic #0: game super world best pubg think better online cell elixir fabulous downloading needs dark content offline ll controls man gold famous means duper multiplayer pub barracks powerful share coolest bakwas
+Topic #1: good game app seen hate pretty nic break brain omg semma news islam especially lover feeling muslim intersting hang gamers sound incredible improved aap complaint personal tablet buy played stuff
+Topic #2: clash games clans enjoy friend graphic build king control tag trophies royale type stuff loving attacking apps stupid accounts company children heroes royal class realy faster cwl hated stopped matchmaking
+Topic #3: love game clan really strategy town hall war thank boring addicted ve league join 13 big 12 level buildings leader gets exciting legend reduce iam showing till leagues builders kind
+Topic #4: game nice update new bad mind slow hard takes loading troop army blowing bro brilliant intresting updated interested enjoying hello 100 version ive long space thought gives funny spells simple
+Topic #5: base problem fix thing pls quot things phone star change days stars hope times waiting able fast connection didn little did working bit let im wait war job rate lose
+Topic #6: amazing game make fantastic plz wow flag happy perfect come addicting request soon want gud pakistan sure el came verry bangladesh issue entertainment poor mb pakistani members primo possible live
+Topic #7: coc supercell game account id favourite help village lost mobile old thanks start tell got want google going option log th12 banned remove sir hack challenging plzz load hate giving
+Topic #8: game best played favorite worst awsome chat strategic nyc bored started ha outstanding popular bestest look addict features attractive worlds beat simply enjoyed global voice luv short clashing universe west
+Topic #9: awesome game ok im year dragon leave internet yes thats used difficult says delete far progress adventure strong okay battles oh yo shows mst speed ma archer 2nd hit ilove
+Topic #10: troops need game download excellent upgrade attack builder long people way players just work hai liked guys 10 time battle building loot use money support lot level wish feel want
+Topic #11: nice like add don hi try beautiful gameplay wizard screen india ice vary soo feature gg suggest sad yeah mode stuck crazy adictive small future nc barbarian edit nise changes
+Topic #12: game great fun cool addictive playing graphics superb years thanks life wonderful updates player day say lot making stop high improve free words spend word lots gameplay night mass wonder
+Topic #13: play gems game th friends want know max easy install forever level 12 android gold gem townhall version experience 11 store recommend coming lol hero events buy totally donate home
+Topic #14: time game interesting loved just killer dont open osm waste pass playing mast lovely supper login fan sucks taking training enjoyable tha fav left ur electro bhai server months black
+
+
